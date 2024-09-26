@@ -1,6 +1,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=macapac&theme=radical&hide_border=true&include_all_commits=false&count_private=false&hide=contribs&hide_rank=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macapac&hide_progress=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macapac&hide_progress=true&hide_border=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macapac&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack
@@ -10,9 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=macapac&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=macapac&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=macapac&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=macapac&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
