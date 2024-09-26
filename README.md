@@ -1,6 +1,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=macapac&theme=radical&hide_border=true&include_all_commits=false&count_private=false&hide=contribs&hide_rank=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=macapac&theme=radical&hide_border=true&hide_progress)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macapac&hide_progress=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macapac&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack
